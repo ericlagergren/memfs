@@ -1,4 +1,4 @@
-module github.com/psanford/memfs
+module github.com/ericlagergren/memfs
 
 go 1.16
 
